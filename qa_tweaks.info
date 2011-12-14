@@ -1,0 +1,7 @@
+name = Q&A Tweaks
+description = Tweaks for the Q&A web site
+core = 6.x
+version = "6.x-1.1"
+core = "6.x"
+
+
